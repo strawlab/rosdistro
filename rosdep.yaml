@@ -32,3 +32,5 @@ osgcompute:
   ubuntu: osgcompute
 python-ode:
   ubuntu: python-pyode
+jansson:
+  ubuntu: libjansson-dev
