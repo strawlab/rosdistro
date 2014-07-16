@@ -30,3 +30,5 @@ osg:
   ubuntu: libopenscenegraph-dev openscenegraph
 osgcompute:
   ubuntu: osgcompute
+python-ode:
+  ubuntu: python-pyode
