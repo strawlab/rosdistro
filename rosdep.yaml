@@ -36,3 +36,5 @@ jansson:
   ubuntu: libjansson-dev
 cython:
   ubuntu: cython
+python-pymvg:
+  ubuntu: python-pymvg
