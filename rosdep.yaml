@@ -38,3 +38,5 @@ cython:
   ubuntu: cython
 python-pymvg:
   ubuntu: python-pymvg
+poco:
+  ubuntu: libpoco-dev
