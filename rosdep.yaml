@@ -34,3 +34,5 @@ python-ode:
   ubuntu: python-pyode
 jansson:
   ubuntu: libjansson-dev
+cython:
+  ubuntu: cython
