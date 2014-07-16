@@ -24,3 +24,5 @@ python-openexr:
   ubuntu: python-openexr
 openexr:
   ubuntu: libopenexr-dev
+libxi:
+  ubuntu: libxi-dev
