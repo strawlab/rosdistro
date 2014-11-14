@@ -42,3 +42,5 @@ poco:
   ubuntu: libpoco-dev
 libxmu:
   ubuntu: libxmu-dev
+arduino-udev:
+  ubuntu: arduino-udev
