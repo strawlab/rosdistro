@@ -44,6 +44,3 @@ libxmu:
   ubuntu: libxmu-dev
 arduino-udev:
   ubuntu: arduino-udev
-boost:
-  ubuntu:
-    precise: libboost1.46-dev
