@@ -44,3 +44,5 @@ libxmu:
   ubuntu: libxmu-dev
 arduino-udev:
   ubuntu: arduino-udev
+python-blist:
+  ubuntu: python-blist
