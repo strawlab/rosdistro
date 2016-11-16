@@ -48,3 +48,5 @@ python-blist:
   ubuntu: python-blist
 sqlalchemy:
   ubuntu: python-sqlalchemy
+glew:
+  ubuntu: libglew-dev
