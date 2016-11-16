@@ -50,3 +50,5 @@ sqlalchemy:
   ubuntu: python-sqlalchemy
 glew:
   ubuntu: libglew-dev
+libcamiface:
+  ubuntu: libcamiface-dev
