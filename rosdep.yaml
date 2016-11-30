@@ -52,3 +52,5 @@ glew:
   ubuntu: libglew-dev
 libcamiface:
   ubuntu: libcamiface-dev
+python-scipy:
+  ubuntu: python-scipy
