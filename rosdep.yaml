@@ -54,3 +54,5 @@ libcamiface:
   ubuntu: libcamiface-dev
 python-scipy:
   ubuntu: python-scipy
+python-yaml:
+  ubuntu: python-yaml
