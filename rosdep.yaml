@@ -56,3 +56,7 @@ python-scipy:
   ubuntu: python-scipy
 python-yaml:
   ubuntu: python-yaml
+python-openexr:
+  ubuntu: python-openexr
+python-pymvg:
+  ubuntu: python-pymvg
