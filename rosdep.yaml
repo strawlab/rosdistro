@@ -64,3 +64,5 @@ sdl2:
   ubuntu: libsdl2-dev
 python-opencv:
   ubuntu: python-opencv
+arduino-mk:
+  ubuntu: arduino-mk
