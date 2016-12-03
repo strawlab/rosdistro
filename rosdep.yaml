@@ -62,3 +62,5 @@ sdl:
   ubuntu: libsdl1.2-dev
 sdl2:
   ubuntu: libsdl2-dev
+python-opencv:
+  ubuntu: python-opencv
