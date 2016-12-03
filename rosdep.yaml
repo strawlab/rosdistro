@@ -58,3 +58,7 @@ python-yaml:
   ubuntu: python-yaml
 python-pymvg:
   ubuntu: python-pymvg
+sdl:
+  ubuntu: libsdl1.2-dev
+sdl2:
+  ubuntu: libsdl2-dev
