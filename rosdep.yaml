@@ -74,3 +74,5 @@ python-prettytable:
   ubuntu: python-prettytable
 python-strawlab:
   ubuntu: python-strawlab
+python-sh
+  ubuntu: python-sh
