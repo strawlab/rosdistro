@@ -72,3 +72,5 @@ python-gi-cairo:
   ubuntu: python-gi-cairo
 python-prettytable:
   ubuntu: python-prettytable
+python-strawlab:
+  ubuntu: python-strawlab
