@@ -66,3 +66,7 @@ python-opencv:
   ubuntu: python-opencv
 arduino-mk:
   ubuntu: arduino-mk
+xdotool:
+  ubuntu: xdotool
+python-gi-cairo:
+  ubuntu: python-gi-cairo
