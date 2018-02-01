@@ -70,3 +70,5 @@ xdotool:
   ubuntu: xdotool
 python-gi-cairo:
   ubuntu: python-gi-cairo
+python-prettytable:
+  ubuntu: python-prettytable
