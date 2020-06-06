@@ -1,27 +1,27 @@
 python-serial:
-  ubuntu: python-serial
+  ubuntu: python3-serial
 python-adskalman:
-  ubuntu: python-adskalman
+  ubuntu: python3-adskalman
 python-benu:
-  ubuntu: python-benu
+  ubuntu: python3-benu
 vlc:
   ubuntu: vlc
 gocr:
   ubuntu: gocr
 python-motmot-flytrax:
-  ubuntu: python-motmot-flytrax
+  ubuntu: python3-motmot-flytrax
 python-motmot-trackem:
-  ubuntu: python-motmot-trackem
+  ubuntu: python3-motmot-trackem
 python-motmot-fview-draw-geom:
-  ubuntu: python-motmot-fview-draw-geom
+  ubuntu: python3-motmot-fview-draw-geom
 python-motmot-fview-head-track:
-  ubuntu: python-motmot-fview-head-track
+  ubuntu: python3-motmot-fview-head-track
 python-gobject-introspection:
-  ubuntu: python-gi
+  ubuntu: python3-gi
 gir1.2-gtk-3.0:
   ubuntu: gir1.2-gtk-3.0
 python-openexr:
-  ubuntu: python-openexr
+  ubuntu: python3-openexr
 openexr:
   ubuntu: libopenexr-dev
 libxi:
@@ -31,13 +31,13 @@ osg:
 osgcompute:
   ubuntu: osgcompute
 python-ode:
-  ubuntu: python-pyode
+  ubuntu: python3-pyode
 jansson:
   ubuntu: libjansson-dev
 cython:
   ubuntu: cython
 python-pymvg:
-  ubuntu: python-pymvg
+  ubuntu: python3-pymvg
 poco:
   ubuntu: libpoco-dev
 libxmu:
@@ -45,34 +45,34 @@ libxmu:
 arduino-udev:
   ubuntu: arduino-udev
 python-blist:
-  ubuntu: python-blist
+  ubuntu: python3-blist
 sqlalchemy:
-  ubuntu: python-sqlalchemy
+  ubuntu: python3-sqlalchemy
 glew:
   ubuntu: libglew-dev
 libcamiface:
   ubuntu: libcamiface-dev
 python-scipy:
-  ubuntu: python-scipy
+  ubuntu: python3-scipy
 python-yaml:
-  ubuntu: python-yaml
+  ubuntu: python3-yaml
 python-pymvg:
-  ubuntu: python-pymvg
+  ubuntu: python3-pymvg
 sdl:
   ubuntu: libsdl1.2-dev
 sdl2:
   ubuntu: libsdl2-dev
 python-opencv:
-  ubuntu: python-opencv
+  ubuntu: python3-opencv
 arduino-mk:
   ubuntu: arduino-mk
 xdotool:
   ubuntu: xdotool
 python-gi-cairo:
-  ubuntu: python-gi-cairo
+  ubuntu: python3-gi-cairo
 python-prettytable:
-  ubuntu: python-prettytable
+  ubuntu: python3-prettytable
 python-strawlab:
-  ubuntu: python-strawlab
+  ubuntu: python3-strawlab
 python-sh:
-  ubuntu: python-sh
+  ubuntu: python3-sh
